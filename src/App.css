@@ -1,3 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  font-size: 25px;
+}
+body {
+  background-image: url(./images/maxresdefault.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100vh;
+  height: 100vh;
+}
+.App {
+  text-align: center;
+}
+input {
+  color: purple;
+  margin-left: 175px;
+  background-color: rgba(251, 255, 0, 0.9);
+}
+
+.container {
+  width: 300px;
+  height: 250px;
+  margin-left: 250px;
+  background-color: rgba(168, 42, 120, 0.5);
+  border-radius: 20px;
+}
+h1 {
+  margin-top: 20px;
+  margin-left: 100zpx;
+  color: yellow;
+}
+
 .App {
   text-align: center;
 }

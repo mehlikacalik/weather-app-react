@@ -1,3 +1,9 @@
+<h1>WEATHER-APP-REACT</h1>
+<p>This is a simple weather application built using React. It utilizes the React API to fetch weather data from an external API and display it to the user.
+</p>
+<img src="/images/weather.gif">
+<img src="/images/foto.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
